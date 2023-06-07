@@ -10,8 +10,7 @@
 <br />
 
 <!-- Visit my profile at <a href="https://github.com/Darth-InVader15" target="__blank">https://github.com/Darth-InVader15</a> -->
-  <img align="right" alt="GIF" src="<iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>"" />
-
+  <img align="right" alt="GIF" src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" />
 **Talking about Personal Stuffs:**
  
 - 🤔 My interests are with Backend Engineering;
