@@ -14,7 +14,7 @@
 **Talking about Personal Stuffs:**
  
 - 🤔 My interests are with Backend Engineering;
-- I have worked with technologies like: Node.js, ReactJS, MongoDB, MATLAB, etc. 
+- I have worked with technologies like: Node.js, ReactJS, MongoDB, etc. 
 - I also love problem-solving.
 - 💬 Wanna talk about Comics or Algorithms, reach out to me.
 - 📫 Please email via piyush.singh1315@gmail.com to reach me.
