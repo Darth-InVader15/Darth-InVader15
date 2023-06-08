@@ -37,4 +37,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+## Find me around the web 🌎 <a href=""><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Struggling on <a href="https://leetcode.com/Darth-InVader15/">LeetCode</a> 😍
+<!-- - Practising on <a href="https://www.codeforces.com/profile/tanyarajhans7/">Codeforces</a> 🙃 -->
+<!-- - Sharing updates on <a href="https://www.linkedin.com/in/tanyarajhans/">LinkedIn</a> 😇 -->
 
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
