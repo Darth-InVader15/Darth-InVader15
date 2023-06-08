@@ -41,6 +41,5 @@
 - Struggling on <a href="https://leetcode.com/Darth-InVader15/"><img align="justify" alt="LC" width="22px" src="https://github.com/Darth-InVader15/B.E_1YR_Eco/blob/main/icons8-level-up-your-coding-skills-and-quickly-land-a-job-25.png" /></a> 😍
 <!-- - Practising on <a href="https://www.codeforces.com/profile/tanyarajhans7/">Codeforces</a> 🙃 -->
 <!-- - Scrolling through <a href="https://www.linkedin.com/in/darthinvader5/">LinkedIn</a> 😇 -->
-</br>
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
