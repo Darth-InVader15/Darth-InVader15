@@ -18,9 +18,8 @@
 - I have worked with technologies like: Node.js, ReactJS, MongoDB, etc. 
 - I also love problem-solving.
 - 💬 Wanna talk about Comics or Algorithms, reach out to me.
--  <--- Or, You can reach out via mail.
-  <a href="mailto:piyush.singh1315@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="https://github.com/Darth-InVader15/B.E_1YR_Eco/blob/main/neon-mail.png" />
+- <a href="mailto:piyush.singh1315@gmail.com"> Or, You can reach out via mail.
+  <img align="right" alt="Mail" width="22px" src="https://github.com/Darth-InVader15/B.E_1YR_Eco/blob/main/neon-mail.png" />
 
 
 **Languages and Tools:**  
