@@ -19,7 +19,7 @@
 - I also love problem-solving.
 - 💬 Wanna talk about Comics or Algorithms, reach out to me.
 - Or, You can reach out via mail. <a href="mailto:piyush.singh1315@gmail.com"> 
-  <img align="right" alt="Mail" width="22px" src="https://github.com/Darth-InVader15/B.E_1YR_Eco/blob/main/neon-mail.png" />
+  <img align="justify" alt="Mail" width="22px" src="https://github.com/Darth-InVader15/B.E_1YR_Eco/blob/main/neon-mail.png" />
 
 
 **Languages and Tools:**  
