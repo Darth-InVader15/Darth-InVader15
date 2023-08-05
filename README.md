@@ -42,4 +42,4 @@
 <!-- - Practising on <a href="https://www.codeforces.com/profile/tanyarajhans7/">Codeforces</a> 🙃 -->
 <!-- - Scrolling through <a href="https://www.linkedin.com/in/darthinvader5/">LinkedIn</a> 😇 -->
 ## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Darth-InVader15/B.E_1YR_Eco/blob/main/github-user-contribution.svg)
