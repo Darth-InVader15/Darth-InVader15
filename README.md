@@ -19,7 +19,7 @@
 - 🌌 Experimenting with UI elements on Android and Ubuntu brings me joy.
 - 💡 I enjoy problem-solving and creative coding challenges.
 - 💬 Wanna talk about Comics, FPS Games, or Algorithms? Reach out to me!
-- 📧 You can also drop me a mail at [piyush.singh1315@gmail.com](mailto:piyush.singh1315@gmail.com).
+- 📧 You can also drop me a mail at [Mail](mailto:piyush.singh1315@gmail.com).
 
 **Languages and Tools:**  
 
