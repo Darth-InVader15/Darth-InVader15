@@ -25,12 +25,12 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darth-InVader15&hide=tex&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darth-InVader15&hide=tex&theme=tokyonight&layout=compact)](https://darthweb.web.app)
 &nbsp; &nbsp;
 
 
 **Languages and Tools:**  
-<p>
+<p align=center>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -41,8 +41,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </p>
 
+
 <h3 align="center">
-   <i>Seize The Day Boys</i>
+   <i>"Seize The Day Boys"</i>
   </h3>
 
 ## Watch my contributions get eaten by a snake 🐍
