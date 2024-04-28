@@ -16,7 +16,7 @@
  
 - 🚀 I'm passionate about Backend Engineering and tinkering with Embedded Projects.
 - 💻 I've worked with technologies like Node.js, ReactJS, MongoDB, and more.
-- 🌌 Experimenting with UI elements on Android and Ubuntu brings me joy.
+- 🌌 I like experimenting with UI elements of Android and Ubuntu.
 - 💡 I enjoy problem-solving and creative coding challenges.
 - 💬 Wanna talk about Comics, FPS Games, or Algorithms? Reach out to me!
 - 📧 You can also drop me a mail at [Mail](mailto:piyush.singh1315@gmail.com).
