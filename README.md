@@ -14,10 +14,9 @@
 
 **About Me:**
  
-- 🚀 I'm passionate about Backend Engineering and tinkering with Embedded Projects.
-- 💻 I've worked with technologies like Node.js, ReactJS, MongoDB, and more.
-- 🌌 I like experimenting with UI elements of Android and Ubuntu.
-- 💡 I enjoy problem-solving and creative coding challenges.
+- 🚀 I like working on Backend codes, Flutter projects, and Embedded Systems.
+- 💻 I've worked with technologies like Node.js, ReactJS, NextJS, Flutter, Firebase, Stream, MongoDB, and more.
+- 🌌 I like experimenting with Android and solving complex DSA problems.
 - 💬 Wanna talk about Comics, FPS Games, or Algorithms? Reach out to me!
 - 📧 You can also drop me a mail at [Mail](mailto:piyush.singh1315@gmail.com).
 
@@ -43,7 +42,7 @@
 
 
 <h3 align="center">
-   <i>"Seize The Day Boys"</i>
+   <i>"We can be Heroes, Just for one day"</i>
   </h3>
 
 ## Watch my contributions get eaten by a snake 🐍
