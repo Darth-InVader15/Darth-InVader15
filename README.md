@@ -14,11 +14,7 @@
 
 **About Me:**
  
-- 🚀 I like working on Backend codes, Flutter projects, and Embedded Systems.
-- 💻 I've worked with technologies like Node.js, ReactJS, NextJS, Flutter, Firebase, Stream, MongoDB, and more.
-- 🌌 I like working on complex Data Structures and Algorithms problems in free time.
-- 💻 Currently I am using:- Debian, ChromeOS, Ubuntu, and Windows(for gaming).
-- 💬 Wanna talk about Comics, FPS Games, or Algorithms? Reach out to me!
+- 🚀 I like working on Backend code.
 - 📧 You can also drop me a mail at [Mail](mailto:piyush.singh1315@gmail.com).
 
 ## Github Stats
@@ -43,7 +39,7 @@
 
 
 <h3 align="center">
-   <i>"We can be Heroes, Just for one day"</i>
+   <!-- <i>"We can be Heroes, Just for one day"</i> -->
   </h3>
 
 ## Watch my contributions get eaten by a snake 🐍
