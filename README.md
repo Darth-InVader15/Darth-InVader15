@@ -1,11 +1,5 @@
 ### Hey there! 👋 I'm Piyush.
 
-<a href="https://www.linkedin.com/in/darthinvader5/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://github.com/Darth-InVader15/temp/blob/main/icons8-linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/__i.r.i.d.e.s.c.e.n.t___/">
-  <img align="left" alt="Instagram" width="22px" src="https://github.com/Darth-InVader15/temp/blob/main/instagram.png" />
-</a>
 
 <br />
 <br />
